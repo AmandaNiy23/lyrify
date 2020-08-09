@@ -1,6 +1,6 @@
 Displays lyrics based on what a user is currently listening to on Spotify.
 
-![Screenshot of lyrify in use](https://github.com/AmandaNiy23/lyrify/screenshot.PNG)
+![Screenshot of lyrify in use](https://github.com/AmandaNiy23/lyrify/blob/master/screenshot.PNG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
