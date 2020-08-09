@@ -1,0 +1,13 @@
+.lyrics{
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.CurrentTrack{
+  flex:1;
+  padding-bottom: 8px;
+  width: 300px;
+  min-height: 150px;
+  margin-top: 10px;
+  background-color: #F67280;
+}

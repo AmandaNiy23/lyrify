@@ -1,0 +1,26 @@
+.player{
+  display:flex;
+  flex-direction:column;
+
+}
+
+.progress{
+  margin-top: 15px;
+  height: 20px;
+}
+
+.songInfo{
+  min-height: 70px;
+
+}
+
+.songDetails{
+  flex:3;
+}
+
+.coverArt{
+  padding: 8px;
+  width: 65px;
+  min-height: 70px;
+  float:left;
+}
